@@ -1,0 +1,8 @@
+{
+  "name": "SequelizeCRUDOperation",
+  "version": "0.0.1",
+  "dependencies": {
+    "mysql": "^2.5.2",
+    "sequelize": "^2.0.0-rc1"
+  }
+}
