@@ -22,7 +22,7 @@ var Item = sequelize.define('Item', {
     id: Sequelize.STRING,
     name:Sequelize.STRING,
     description: Sequelize.STRING,
-    qty: Sequelize.DATE
+    qty: Sequelize.INTEGER
 });
 
 //Updating Laptop to Computer
